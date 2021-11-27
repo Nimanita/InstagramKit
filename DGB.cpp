@@ -7,6 +7,9 @@ weight
                     userGender.setText(gender);
                     userActivityLvl.setText(getActivityLvlShortForm(object.getString("activityLvl")));
 
+
+
+
 Height 
      password = user.password;
     password = "3yu"
